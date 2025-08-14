@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Phone2PC Cursor</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="pc_ip_hint">Enter PC IP Address</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status_connected">Connected to PC</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_tracking">Tracking Motion</string>
+    <string name="camera_permission_required">Camera permission is required for motion tracking</string>
+</resources> 
